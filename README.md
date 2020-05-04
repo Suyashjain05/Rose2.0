@@ -9,20 +9,17 @@ Rose and I are moderating a [support group](https://t.me/binzhub), where you can
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [news channel](https://t.me/binzhub) if you just want to stay in the loop about new features or
-announcements.
 
-Alternatively, [find me on telegram](https://t.me/mariodevs)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/moviewalaa)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 Easiest way!Smartest way !
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/midhunkm1294-bit/rose2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Suyashjain05/Rose2.0)
 
 Our team 
-VPNBROTHER
+MOVIEWALAA
 MARIODEVS
-VIRUZS
 CREATOR NAME MIDHUN K M
 
 
