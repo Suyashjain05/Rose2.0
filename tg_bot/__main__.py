@@ -22,12 +22,10 @@ Hey! {}, my name is {}!I can help you out in mananging your group efficiency
 I can do what you cannot ! 
 I am more powerful & I have more features than any other bots.
 Just add me in an group & start using me !
-[I am very smart that's because I am created by this guy!](tg://user?id={})
-[Click Here To Add Me In Group!](http://t.me/AsunaYuuki_Robot?startgroup=true)
+[I am very smart that's because I am created by this guy!](tg://user?id={677114971})
+[Click Here To Add Me In Group!](http://t.me/Moviewalamanagerbot?startgroup=true)
  if you have any questions about how to use me please give me /help 
- My support group @hackerhubz ! 
-Join My Bot Group @BotsExpertsHub
-
+Made By this person t.me/moviewalaa
 Thank you for using me!
 
 """
@@ -49,10 +47,10 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my main creator](t.me/mariodevs) to get me to where I am now, and every donation helps \
+It took lots of work for [my main creator](t.me/tsuath) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+There are two ways of paying him; [PayPal](paypal.me/tsuath), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
